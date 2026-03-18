@@ -42,7 +42,7 @@
     -webkit-backdrop-filter: blur(12px);
   }
   .text-gradient {
-    background: linear-gradient(135deg, #0f766e, #0891b2);
+    background: linear-gradient(135deg, #0192F5, #0891b2);
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
     background-clip: text;
@@ -59,7 +59,7 @@
   position: absolute;
   inset: -8px;
   border-radius: 50%;
-  border: 2px solid #0f766e;
+  border: 2px solid #0192F5;
   animation: ring-pulse 2s ease-in-out infinite;
 }
 
